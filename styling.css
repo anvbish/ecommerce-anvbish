@@ -1,0 +1,47 @@
+
+offer{
+    
+    color:white; 
+    display: block;
+    
+}
+
+.ann{
+    background-color:cadetblue;
+    text-align:center;
+}
+
+ab{
+    background-color: rgb(241, 171, 194);
+    color:rgb(11, 11, 11);
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+fd{
+    background-color: bisque;
+    color:rgb(77, 6, 6);
+    text-align: center;
+    font-size: 20px;
+    display: block;
+}
+
+lp{
+    background-color:rgb(193, 227, 193);
+    color:rgb(78, 17, 17);
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    font:bolder;
+
+}
+
+NAM{
+    text-align: center;
+    font-size:150px;
+    background-color: rgb(224, 196, 250);
+    color:blueviolet;
+    display: block;
+    font-family:cursive;
+}
